@@ -1,0 +1,119 @@
+.checked {
+  color: #4285f4;
+}
+
+.navbar {
+  border-radius: 12px;
+  border: 3px solid white;
+}
+
+.linktd {
+  text-decoration: none !important;
+  color: black;
+}
+
+.linktd:hover {
+  text-decoration: none !important;
+  color: black;
+}
+
+.ratingForm > button {
+  border: none;
+  background: inherit !important;
+  outline: none;
+}
+
+.ratingForm > button:focus {
+  outline: none;
+}
+
+.nav-item {
+  color: white !important;
+}
+
+.nav-item:hover {
+  color: #dedede !important;
+}
+
+.formDiv {
+  padding: 20px 150px 0px 150px;
+  align-items: center;
+}
+
+.profileDiv {
+  padding: 30px 110px 0px 110px;
+}
+
+.rateDiv {
+  margin-top: 15px;
+}
+
+.recipesDiv {
+  padding: 0px 110px 0px 110px;
+  margin-top: 25px;
+}
+
+.profileHeader {
+  margin-bottom: 30px;
+}
+
+.links {
+  font-weight: bold;
+}
+
+.rateSpan {
+  padding: 10px 0px 10px 5px;
+}
+
+.navDiv {
+  width: 100%;
+}
+
+.navItemsContainer {
+  float: left;
+  display: inline-flex;
+}
+
+.navSpan {
+  color: white;
+}
+
+.navRight {
+  display: inline-flex;
+}
+
+.formHead {
+  margin-bottom: 20px;
+}
+
+.ingDiv {
+  padding: 0px 0px 0px 16px;
+}
+
+.ingButtonsDiv {
+  padding-top: 30px;
+}
+
+.ingBtnMin {
+  padding: 0px 5px 0px 5px;
+}
+
+.ingBtnPl {
+  padding: 0px 2px 0px 2px;
+}
+
+.recipeDetails {
+  padding: 30px 220px 0px 180px;
+}
+
+.recipeAuthor {
+  margin-bottom: 45px;
+}
+
+.recipeDesc {
+  word-wrap: break-word;
+}
+
+.descSpan {
+  text-decoration: underline;
+}
